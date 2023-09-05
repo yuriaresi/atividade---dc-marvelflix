@@ -1,0 +1,35 @@
+.btn-netflix {
+    background-color: #e50914;
+    color: #ffffff;
+    padding: 20px 35px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.btn {
+    transition: none;
+}
+
+.no-hover-effect:hover {
+    /* Estilos de hover que são iguais aos estilos padrão */
+    background-color: #e50914;
+    color: white;
+}
+
+.divider-row {
+    border-bottom: 3px solid #515c6f;
+}
+
+.banner-inicial {
+    background: rgba(0, 0, 0, 0.8)  url(../img/marvel-dc\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+
+
+}
+
+
+.fonte-titulo {
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
